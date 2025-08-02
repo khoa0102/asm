@@ -6,7 +6,7 @@ Dự án này triển khai một pipeline khoa học dữ liệu cho ABC Manufac
 ## Cấu trúc
 - `app.py`: Ứng dụng Streamlit chính.
 - `requirements.txt`: Danh sách các thư viện Python cần thiết.
-- `data/`: Thư mục chứa dữ liệu mẫu (không đẩy lên GitHub).
+- `amazon.csv` : Thư mục chứa dữ liệu mẫu.
 
 ## Cài đặt
 1. Cài đặt Python 3.8+.
